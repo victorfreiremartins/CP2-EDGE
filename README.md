@@ -54,3 +54,7 @@ Certifique-se de conectar corretamente os componentes à placa Arduino conforme 
 ## Como Usar
 
 O código fornecido é útil quando você precisa monitorar e controlar as condições ambientais, como temperatura, umidade e luminosidade, em um ambiente específico, como uma vinícola.
+
+## Simulação
+
+https://wokwi.com/projects/396510148199113729
